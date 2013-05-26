@@ -1,0 +1,9 @@
+{
+    "name": "express-admin-static",
+    "version": "1.0.0",
+    "description": "A bunch of static files for Express Admin",
+    "repository": {
+        "type"  : "git",
+        "url"   : "git://github.com/simov/express-admin-static.git"
+    }
+}
