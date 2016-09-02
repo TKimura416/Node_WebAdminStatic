@@ -1,9 +1,9 @@
 {
-    "name": "express-admin-static",
+    "name": "Node_WebAdminStatic",
     "version": "2.2.2",
     "description": "A bunch of static files for Express Admin",
     "repository": {
         "type"  : "git",
-        "url"   : "git://github.com/simov/express-admin-static.git"
+        "url"   : "git://github.com/TKimura416/Node_WebAdminStatic.git"
     }
 }
